@@ -34,16 +34,17 @@ Tecnologías utilizadas
 - JSON
 - GitHub Pages 
 
-🌐 Cómo ejecutar el proyecto:
+Cómo ejecutar el proyecto:
 - Clona el repositorio:
-git clone <URL-de-tu-repo>
+git clone https://github.com/gael620/Soto-Loera-Gael-Axel.git
 - Abre el archivo index.html en tu navegador.
 
-🌐 GitHub Pages
-Incluye el link cuando lo tengas:
+GitHub Pages
+link:
+https://gael620.github.io/Soto-Loera-Gael-Axel/
 
-👉 Proyecto en vivo:
-https://<gael620>.github.io/<Soto_Loera_Gael_Axel>/
+Proyecto en vivo:
+https://gael620.github.io/Soto-Loera-Gael-Axel/
 
 Autor
 - Nombre: Gael Axel Soto Loera
