@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Tienda Escolar</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="header">
+    <div class="wrap">
+      <h1 class="brand">Tienda Escolar</h1>
+      <div class="controls">
+        <select id="categoria">
+          <option value="all">Todas</option>
+          <option value="libros">Libros</option>
+          <option value="libretas">Libretas</option>
+          <option value="utiles">Útiles</option>
+        </select>
+        <select id="orden">
+          <option value="relevance">Relevancia</option>
+          <option value="price_asc">Precio: menor a mayor</option>
+          <option value="price_desc">Precio: mayor a menor</option>
+          <option value="name_asc">Nombre: A-Z</option>
+        </select>
+        <input id="busqueda" type="search" placeholder="Buscar por nombre o marca..." />
+        <button id="limpiar" class="btn secondary">Limpiar</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="wrap layout">
+    <section>
+      <div class="panel">
+        <h2>Productos</h2>
+        <div class="panel-body">
+          <div id="lista" class="grid"></div>
+        </div>
+      </div>
+    </section>
+
+    <aside>
+      <div class="panel">
+        <h2>Carrito</h2>
+        <div class="panel-body">
+          <div id="carrito" class="cart-list"></div>
+          <div class="summary">
+            <div id="itemsCount">Artículos: 0</div>
+            <div id="subtotal">Subtotal: $0.00 MXN</div>
+            <div id="iva">IVA (16%): $0.00 MXN</div>
+            <div id="total">Total: $0.00 MXN</div>
+          </div>
+          <div class="actions" style="margin-top:.75rem">
+            <button id="vaciar" class="btn remove">Vaciar carrito</button>
+            <button class="btn">Proceder al pago</button>
+          </div>
+        </div>
+      </div>
+    </aside>
+  </main>
+
+  <footer class="footer">
+    <small>Ejemplo educativo. Guadalajara, JAL — MXN.</small>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+[
+    { "id": "U501", "categoria": "utiles", "nombre": "Pluma gel 0.5mm", "marca": "Pilot", "precio": 22, "stock": 100, "color": "azul" },
+    { "id": "U502", "categoria": "utiles", "nombre": "Lápiz HB", "marca": "Mirado", "precio": 8, "stock": 200 },
+    { "id": "U503", "categoria": "utiles", "nombre": "Resaltador pastel", "marca": "Stabilo", "precio": 18, "stock": 90, "color": "rosa" },
+    { "id": "U504", "categoria": "utiles", "nombre": "Pegamento barra 21g", "marca": "Pritt", "precio": 29, "stock": 60 }
+  ]
+  

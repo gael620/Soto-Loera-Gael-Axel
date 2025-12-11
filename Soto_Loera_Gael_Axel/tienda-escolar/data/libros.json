@@ -1,0 +1,6 @@
+[
+    { "id": "L001", "categoria": "libros", "nombre": "Matemáticas 1", "autor": "R. López", "editorial": "EducaMX", "precio": 259, "stock": 12 },
+    { "id": "L002", "categoria": "libros", "nombre": "Historia Universal", "autor": "A. García", "editorial": "Aula Press", "precio": 315, "stock": 8 },
+    { "id": "L003", "categoria": "libros", "nombre": "Química Básica", "autor": "M. Torres", "editorial": "Ciencia Hoy", "precio": 289, "stock": 5 }
+  ]
+  

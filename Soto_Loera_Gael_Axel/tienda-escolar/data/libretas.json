@@ -1,0 +1,6 @@
+[
+    { "id": "N101", "categoria": "libretas", "nombre": "Libreta profesional raya", "marca": "Scribe", "tamanio": "A4", "precio": 79, "stock": 40, "colores": ["azul", "negro", "rojo"] },
+    { "id": "N102", "categoria": "libretas", "nombre": "Cuaderno espiral cuadriculado", "marca": "Norma", "tamanio": "A5", "precio": 65, "stock": 30, "colores": ["verde", "morado"] },
+    { "id": "N103", "categoria": "libretas", "nombre": "Block de dibujo", "marca": "Lumen", "tamanio": "A3", "precio": 120, "stock": 12, "colores": ["blanco"] }
+  ]
+  
